@@ -1,6 +1,6 @@
 # Repositorio Juan Felipe Suarez
 
-![Imagen de Portada](url_de_la_imagen)
+![Imagen de Portada](Recursos/robot.jpg)
 
 ## Descripción
 
