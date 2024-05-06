@@ -4,21 +4,22 @@
 
 ## Descripción
 
-Breve descripción del proyecto, objetivos y funcionalidades principales.
+Primer proyecto en GitHub, para la asignatura **Entornos de Desarrollo**, aprendí a realizar un commit, un pull create y hacer merge de los branch.
 
 ## Características
-- Característica 1
-- Característica 2
-- Característica 3
-- 
+1. Creación del repositorio para trabajar en un proyecto en java. 
+2. Trabajo en equipo e independiente a la misma vez. 
+3. Fusión de trabajo para lograr el mismo objetivo.
+
+![alt text](Recursos/gitHub.png) 
+
 ## Instalación
-Instrucciones para instalar y configurar el proyecto.
+Descargar el proyecto directamente del repositorio y ejecutar el archivo _JAVA_ en un editor de codigo inteligente.
 
-## Uso
-Guía rápida sobre cómo utilizar el proyecto y ejemplos de código.
+## Agradecimientos
 
-## Contribución
-Información sobre cómo contribuir al proyecto, directrices para enviar pull requests y reportar issues.
+Al profesor Carlos Rufiangel por sus conocimientos y su tecnica para explicarlos y desarrollarlos.
 
-## Licencia
-Licencia bajo la cual se distribuye el proyecto.
+
+
+
