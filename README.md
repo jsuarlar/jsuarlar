@@ -11,7 +11,7 @@ Primer proyecto en GitHub, para la asignatura **Entornos de Desarrollo**, aprend
 2. Trabajo en equipo e independiente a la misma vez. 
 3. Fusión de trabajo para lograr el mismo objetivo.
 
-![alt text](Recursos/gitHub.png) 
+![img](Recursos/gitHub.png) 
 
 ## Instalación
 Descargar el proyecto directamente del repositorio y ejecutar el archivo _JAVA_ en un editor de codigo inteligente.
